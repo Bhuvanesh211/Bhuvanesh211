@@ -55,12 +55,8 @@ I am a passionate **Embedded Software Engineer** specializing in high-performanc
 ### 🏆 Achievements
 
 <div align="center">
-  <a href="https://github.com/Bhuvanesh211?tab=achievements">
-    <img src="https://img.shields.io/badge/Quickdraw-Achieved-gold?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
-  </a>
-  <a href="https://github.com/Bhuvanesh211?tab=achievements">
-    <img src="https://img.shields.io/badge/Pull_Shark-Achieved-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
-  </a>
+  <img src="https://github.com/static/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="80" />
+  <img src="https://github.com/static/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="80" />
 </div>
 
 ---
