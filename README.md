@@ -20,7 +20,7 @@ I am a passionate **Embedded Software Engineer** specializing in high-performanc
 - 🎓 **B.E. Electronics & Communication Engineer** | JSS Science and Technology University (CGPA: 8.27)
 - 📜 **Certified:** Emertxe Certified Embedded Professional (ECEP)
 - 🔧 **Core:** C, C++, Data Structures (DSA), Object Oriented Programming (OOPS)
-- 🧠 **Protocols:** I2C, SPI, UART, CAN
+- 🧠 **Protocols:** I2C, SPI, UART, CAN, LIN
 
 ---
 
@@ -48,6 +48,19 @@ I am a passionate **Embedded Software Engineer** specializing in high-performanc
   <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bhuvanesh's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh211&theme=tokyonight&hide_border=true" alt="Bhuvanesh's Streak" />
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/Bhuvanesh211?tab=achievements">
+    <img src="https://img.shields.io/badge/Quickdraw-Achieved-gold?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  </a>
+  <a href="https://github.com/Bhuvanesh211?tab=achievements">
+    <img src="https://img.shields.io/badge/Pull_Shark-Achieved-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  </a>
 </div>
 
 ---
