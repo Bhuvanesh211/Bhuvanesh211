@@ -1,15 +1,74 @@
-<h1 align="center">Hi 👋, I'm V M Bhuvanesh</h1>
-<h3 align="center">Aspiring Embedded Software Engineer with a strong foundation in Linux, C, and C++. Proficient in working with microcontrollers and passionate about developing efficient embedded systems. Recent graduate eager to apply technical skills and contribute to innovative projects. Seeking opportunities to grow and make an impact in the embedded software industry. Dedicated, quick learner, and enthusiastic about continuous learning and professional development.</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=V%20M%20Bhuvanesh&fontSize=80&animation=fadeIn&theme=tokyonight" width="100%"/>
+</h1>
 
-- 🌱 I’m currently learning **EMBEDDED SYSTEM COURSE**
+<div align="center">
+  <h3>🚀 Embedded Software Engineer | Linux | C/C++ | Automotive 🚗</h3>
 
-- 📫 How to reach me **bhuvaneshvm49@gmail.com**
+  <p>
+    <a href="https://linkedin.com/in/v-m-bhuvanesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:vmbhuvanesh16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vmbhuvanesh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vmbhuvanesh2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/v-m-bhuvanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-m-bhuvanesh" height="30" width="40" /></a>
+---
+
+### 📖 About Me
+
+I am a passionate **Embedded Software Engineer** dedicated to building high-performance, low-latency systems. With a strong foundation in **C/C++**, **Linux**, and **Microcontrollers**, I specialize in developing efficient solutions at the hardware-software boundary, with a focus on **Automotive** electronics and **Edge AI**.
+
+- 🎓 **Electronics & Communication Engineer** (CGPA: 8.27)
+- 🔧 **Expertise:** STM32, Arduino, AVR, RTOS, Device Drivers
+- 🧠 **Focus:** Microcontrollers, I2C, SPI, UART, CAN, LIN
+- 🚀 **Learning:** TinyML (Edge Impulse) & AI on the Edge
+- 📜 **Certified:** Emertxe Certified Embedded Professional (ECEP)
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <p><b>💻 Languages & Core Development</b></p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,python,bash" /></a>
+  
+  <p><b>⚙️ Embedded Systems & Tools</b></p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git,vscode,cmake,ubuntu,debian" /></a>
+</div>
+
+<br/>
+
+#### 🔌 Specialized Embedded Capabilities
+*   **Hardware:** Arduino, Raspberry Pi, ESP32, 8051
+*   **Communication:** I2C, SPI, UART, CAN
+*   **Operating Systems:** Embedded Linux
+*   **Concepts:** Interrupt Handling, DMA, Memory Management, ADC/DAC
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bhuvanesh's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh211&theme=tokyonight&hide_border=true" alt="Bhuvanesh's Streak" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+If you're interested in collaborative projects in **Embedded Systems**, **Automotive Electronics**, or **TinyML**, reach out!
+
+<div align="left">
+  <a href="https://linkedin.com/in/v-m-bhuvanesh" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-v--m--bhuvanesh-blue?style=flat-square&logo=linkedin" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:vmbhuvanesh16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vmbhuvanesh16@gmail.com-red?style=flat-square&logo=gmail" alt="gmail" />
+  </a>
+</div>
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Last_Updated-2026--03--24-brightgreen?style=flat-square" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
