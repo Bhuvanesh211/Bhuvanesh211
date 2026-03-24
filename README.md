@@ -20,7 +20,7 @@ I am a passionate **Embedded Software Engineer** specializing in high-performanc
 - 🎓 **B.E. Electronics & Communication Engineer** | JSS Science and Technology University (CGPA: 8.27)
 - 📜 **Certified:** Emertxe Certified Embedded Professional (ECEP)
 - 🔧 **Core:** C, C++, Data Structures (DSA), Object Oriented Programming (OOPS)
-- 🧠 **Protocols:** I2C, SPI, UART, CAN, LIN
+- 🧠 **Protocols:** I2C, SPI, UART, CAN
 
 ---
 
